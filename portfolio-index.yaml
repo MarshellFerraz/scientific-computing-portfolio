@@ -1,0 +1,126 @@
+portfolio:
+  owner: Marshell Ferreira Almeida Ferraz
+  repository: scientific-computing-portfolio
+  purpose: >
+    Public scientific-computing portfolio containing non-confidential work
+    products, project summaries, workflow documentation, and reusable structures
+    across computational chemistry, biomedical modeling, mathematical modeling,
+    AI-assisted scientific evaluation, engineering education, and technical
+    documentation.
+
+  domain_focus:
+    - scientific_computing
+    - computational_chemistry
+    - biomedical_modeling
+    - mathematical_modeling
+    - diabetic_foot_ulcer
+    - chronic_wound_biology
+    - molecular_docking
+    - molecular_dynamics
+    - kinetic_modeling
+    - biomarker_simulation
+    - ai_evaluation
+    - engineering_education
+    - technical_documentation
+
+  work_products:
+    - name: computational_mathematical_biomedical_modeling
+      title: Computational and Mathematical Biomedical Modeling
+      type: framework_documentation
+      confidentiality: public_summary_only
+      description: >
+        Frameworks for modeling chronic wound biology, diabetic foot ulcer
+        progression, oxidative stress, carbonyl stress, glycation, biomaterial
+        interactions, biomarker interpretation, and therapeutic prioritization.
+      keywords:
+        - chronic_wound_modeling
+        - diabetic_foot_ulcer
+        - oxidative_stress
+        - carbonyl_stress
+        - glycation
+        - therapeutic_prioritization
+
+    - name: python_scientific_computing_workflows
+      title: Python-Based Scientific Computing Workflows
+      type: code_and_notebooks
+      confidentiality: non_confidential_examples
+      description: >
+        Python workflows for numerical modeling, curve fitting, kinetic
+        analysis, biomarker simulation, scientific visualization, and
+        decision-support reasoning.
+      keywords:
+        - python
+        - numerical_modeling
+        - curve_fitting
+        - kinetic_modeling
+        - biomarker_simulation
+        - scientific_visualization
+
+    - name: computational_chemistry_workflows
+      title: Computational Chemistry and Biophysics Workflows
+      type: workflow_documentation
+      confidentiality: non_confidential_examples
+      description: >
+        Workflows involving molecular docking, molecular dynamics planning,
+        protein-ligand interaction analysis, cheminformatics, ligand preparation,
+        fluorescence interpretation, and antiglycation mechanisms.
+      keywords:
+        - molecular_docking
+        - molecular_dynamics
+        - protein_ligand_interactions
+        - cheminformatics
+        - antiglycation
+        - fluorescence_interpretation
+
+    - name: patent_oriented_documentation
+      title: Patent-Oriented Scientific and Technical Documentation
+      type: technical_and_ip_documentation
+      confidentiality: restricted
+      description: >
+        Documentation connecting therapeutic design, biomaterials, bioactive
+        compounds, computational models, analytical methodologies, and
+        translational healthcare innovation.
+      keywords:
+        - patent_support
+        - therapeutic_design
+        - biomaterials
+        - bioactive_compounds
+        - translational_healthcare
+
+    - name: engineering_education_and_assessment
+      title: Engineering Education and Assessment Materials
+      type: teaching_and_assessment_materials
+      confidentiality: public_examples
+      description: >
+        Teaching materials, rubrics, feedback templates, technical assessment
+        logic, TCC guidance, and engineering education documentation.
+      keywords:
+        - engineering_education
+        - assessment_rubrics
+        - technical_feedback
+        - tcc_supervision
+        - scientific_reasoning
+
+    - name: ai_scientific_evaluation_logic
+      title: AI Scientific Evaluation and QA Logic
+      type: evaluation_framework
+      confidentiality: public_examples
+      description: >
+        Domain-specific logic for evaluating scientific explanations,
+        biochemical mechanisms, mathematical derivations, physics reasoning,
+        model-generated outputs, reproducibility, and methodological limitations.
+      keywords:
+        - ai_evaluation
+        - scientific_qa
+        - reasoning_evaluation
+        - model_output_validation
+        - methodological_limitations
+
+  excluded_from_public_repository:
+    - unpublished_manuscripts_full_text
+    - patent_sensitive_chemical_structures
+    - proprietary_model_parameters
+    - confidential_thesis_data
+    - invention_critical_claims
+    - non_public_therapeutic_formulations
+    - restricted_biomaterial_design_specifications
