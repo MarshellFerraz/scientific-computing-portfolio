@@ -4,6 +4,10 @@ Scientific computing portfolio covering computational chemistry, biomedical mode
 
 This repository is being organized to include non-confidential scientific-computing projects, workflows, and documentation. Sensitive patent-related materials, unpublished manuscripts, proprietary model parameters, and confidential thesis data are intentionally excluded from the public repository.
 
+## Technical Scope
+
+Scientific computing · Computational chemistry · Molecular docking · Molecular dynamics · Cheminformatics · Biomedical modeling · Kinetic modeling · Biomarker simulation · Diabetic wound modeling · Antiglycation mechanisms · Protein–ligand interactions · Fluorescence spectroscopy · Literature mining · Systematic review workflows · AI-assisted scientific evaluation · SFT/RM evaluation · Scientific reasoning · Engineering education tools · Python · RDKit · OpenBabel · GROMACS · AutoDock Vina · PyMOL · NumPy · SciPy · pandas · Matplotlib · Jupyter · Wolfram Mathematica
+
 ## Repository structure
 
 ```text
