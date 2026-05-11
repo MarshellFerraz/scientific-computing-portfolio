@@ -1,6 +1,12 @@
 # scientific-computing-portfolio
+
 Scientific computing portfolio covering computational chemistry, biomedical modeling, literature mining, kinetic modeling, biomarker simulation, and AI-assisted scientific evaluation.
 
+This repository is being organized to include non-confidential scientific-computing projects, workflows, and documentation. Sensitive patent-related materials, unpublished manuscripts, proprietary model parameters, and confidential thesis data are intentionally excluded from the public repository.
+
+## Repository structure
+
+```text
 scientific-computing-portfolio/
 │
 ├── README.md
@@ -49,3 +55,8 @@ scientific-computing-portfolio/
     ├── figures/
     ├── diagrams/
     └── portfolio-documents/
+```
+
+## Current status
+
+This portfolio is under active organization. Initial public materials will include demonstration workflows, synthetic datasets, educational tools, and non-confidential examples related to scientific computing, computational chemistry, biomedical modeling, and AI-assisted scientific evaluation.
