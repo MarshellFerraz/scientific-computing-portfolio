@@ -1,0 +1,7 @@
+Relatório técnico - planta integrada Kraft
+
+A planta inicia no preparo da madeira, com descascamento, picagem e classificação dos cavacos. A uniformidade dos cavacos afeta a penetração do licor branco e a estabilidade do cozimento. No digestor, os cavacos são cozidos com licor branco contendo NaOH e Na2S, promovendo deslignificação e formação de polpa marrom e licor preto.
+
+Após o cozimento, a polpa passa por lavagem e depuração para remover licor preto, rejeitos e cavacos mal cozidos. O branqueamento aumenta a alvura por remoção ou modificação da lignina residual. Em seguida, ocorre preparo da massa com refino, aditivos, caixa de entrada, tela formadora, prensagem e secagem.
+
+O licor preto deve passar por evaporação, caldeira de recuperação, formação de smelt, licor verde, caustificação e retorno do licor branco ao digestor, com geração de vapor e energia. Cavacos irregulares levam a cozimento heterogêneo, kappa instável e maior consumo químico.

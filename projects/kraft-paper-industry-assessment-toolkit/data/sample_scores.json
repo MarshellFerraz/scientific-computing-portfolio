@@ -1,0 +1,190 @@
+{
+  "base_score": 5.11,
+  "results": [
+    {
+      "item": 1,
+      "name": "Visão geral integrada da planta",
+      "max_score": 1.0,
+      "suggested_score": 0.58,
+      "found_terms": [
+        "madeira",
+        "branqueamento",
+        "energia",
+        "polpa marrom",
+        "licor preto",
+        "licor branco",
+        "vapor"
+      ],
+      "missing_terms": [
+        "polpação",
+        "máquina de papel",
+        "recuperação química",
+        "fluxo integrado",
+        "papel"
+      ],
+      "feedback": "O item 'Visão geral integrada da planta' apresenta domínio parcial. Elementos identificados: madeira, branqueamento, energia, polpa marrom, licor preto, licor branco, vapor. Elementos a complementar: polpação, máquina de papel, recuperação química, fluxo integrado, papel."
+    },
+    {
+      "item": 2,
+      "name": "Preparo da madeira",
+      "max_score": 1.0,
+      "suggested_score": 0.44,
+      "found_terms": [
+        "descascamento",
+        "cavacos",
+        "classificação",
+        "penetração do licor"
+      ],
+      "missing_terms": [
+        "umidade",
+        "densidade",
+        "extrativos",
+        "tamanho dos cavacos",
+        "cozimento homogêneo"
+      ],
+      "feedback": "O item 'Preparo da madeira' apresenta domínio insuficiente. Elementos identificados: descascamento, cavacos, classificação, penetração do licor. Elementos a complementar: umidade, densidade, extrativos, tamanho dos cavacos, cozimento homogêneo."
+    },
+    {
+      "item": 3,
+      "name": "Polpação Kraft / cozimento",
+      "max_score": 1.5,
+      "suggested_score": 0.75,
+      "found_terms": [
+        "licor branco",
+        "NaOH",
+        "Na2S",
+        "digestor",
+        "lignina",
+        "deslignificação"
+      ],
+      "missing_terms": [
+        "número kappa",
+        "sulfidez",
+        "fator H",
+        "rendimento",
+        "viscosidade",
+        "carga alcalina"
+      ],
+      "feedback": "O item 'Polpação Kraft / cozimento' apresenta domínio parcial. Elementos identificados: licor branco, NaOH, Na2S, digestor, lignina, deslignificação. Elementos a complementar: número kappa, sulfidez, fator H, rendimento, viscosidade, carga alcalina."
+    },
+    {
+      "item": 4,
+      "name": "Lavagem, depuração e purificação da polpa",
+      "max_score": 1.0,
+      "suggested_score": 0.62,
+      "found_terms": [
+        "lavagem",
+        "depuração",
+        "licor preto",
+        "rejeitos",
+        "cavacos mal cozidos"
+      ],
+      "missing_terms": [
+        "carryover",
+        "eficiência de lavagem",
+        "consumo no branqueamento"
+      ],
+      "feedback": "O item 'Lavagem, depuração e purificação da polpa' apresenta domínio parcial. Elementos identificados: lavagem, depuração, licor preto, rejeitos, cavacos mal cozidos. Elementos a complementar: carryover, eficiência de lavagem, consumo no branqueamento."
+    },
+    {
+      "item": 5,
+      "name": "Branqueamento",
+      "max_score": 1.0,
+      "suggested_score": 0.2,
+      "found_terms": [
+        "alvura",
+        "lignina residual"
+      ],
+      "missing_terms": [
+        "ClO2",
+        "O2",
+        "H2O2",
+        "pH",
+        "viscosidade",
+        "seletividade",
+        "dosagem química",
+        "reversão de alvura"
+      ],
+      "feedback": "O item 'Branqueamento' apresenta domínio insuficiente. Elementos identificados: alvura, lignina residual. Elementos a complementar: ClO2, O2, H2O2, pH, viscosidade, seletividade, dosagem química, reversão de alvura."
+    },
+    {
+      "item": 6,
+      "name": "Preparo da massa e produção de papel",
+      "max_score": 1.5,
+      "suggested_score": 0.82,
+      "found_terms": [
+        "refino",
+        "aditivos",
+        "caixa de entrada",
+        "tela formadora",
+        "prensagem",
+        "secagem"
+      ],
+      "missing_terms": [
+        "gramatura",
+        "umidade",
+        "drenagem",
+        "calandragem",
+        "resistência mecânica"
+      ],
+      "feedback": "O item 'Preparo da massa e produção de papel' apresenta domínio parcial. Elementos identificados: refino, aditivos, caixa de entrada, tela formadora, prensagem, secagem. Elementos a complementar: gramatura, umidade, drenagem, calandragem, resistência mecânica."
+    },
+    {
+      "item": 7,
+      "name": "Recuperação química e geração de energia",
+      "max_score": 1.5,
+      "suggested_score": 1.2,
+      "found_terms": [
+        "licor preto",
+        "evaporação",
+        "caldeira de recuperação",
+        "smelt",
+        "licor verde",
+        "caustificação",
+        "vapor",
+        "retorno do licor branco"
+      ],
+      "missing_terms": [
+        "forno de cal",
+        "geração de energia"
+      ],
+      "feedback": "O item 'Recuperação química e geração de energia' apresenta domínio parcial. Elementos identificados: licor preto, evaporação, caldeira de recuperação, smelt, licor verde, caustificação, vapor, retorno do licor branco. Elementos a complementar: forno de cal, geração de energia."
+    },
+    {
+      "item": 8,
+      "name": "Interdependência entre etapas",
+      "max_score": 1.0,
+      "suggested_score": 0.5,
+      "found_terms": [
+        "cozimento heterogêneo",
+        "kappa",
+        "consumo químico",
+        "alvura"
+      ],
+      "missing_terms": [
+        "resistência",
+        "produtividade",
+        "cadeia causal",
+        "impacto no produto"
+      ],
+      "feedback": "O item 'Interdependência entre etapas' apresenta domínio parcial. Elementos identificados: cozimento heterogêneo, kappa, consumo químico, alvura. Elementos a complementar: resistência, produtividade, cadeia causal, impacto no produto."
+    },
+    {
+      "item": 9,
+      "name": "Organização, clareza e linguagem técnica",
+      "max_score": 0.5,
+      "suggested_score": 0.0,
+      "found_terms": [],
+      "missing_terms": [
+        "sequência",
+        "variáveis operacionais",
+        "pontos críticos",
+        "processo",
+        "clareza",
+        "precisão técnica"
+      ],
+      "feedback": "O item 'Organização, clareza e linguagem técnica' apresenta domínio insuficiente. Elementos identificados: nenhum elemento central identificado. Elementos a complementar: sequência, variáveis operacionais, pontos críticos, processo, clareza, precisão técnica."
+    }
+  ],
+  "note": "Pontuação sugerida automaticamente; validar tecnicamente antes de usar como nota final."
+}

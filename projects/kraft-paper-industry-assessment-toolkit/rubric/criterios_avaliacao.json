@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "title": "Rubrica de Correção - Planta Integrada Kraft",
+    "mandatory_total": 10.0,
+    "bonus_max": 0.5,
+    "language": "pt-BR",
+    "note": "Tratamento de efluentes não é item obrigatório; pode gerar bonificação quando correto."
+  },
+  "criteria": [
+    {
+      "item": 1,
+      "name": "Visão geral integrada da planta",
+      "max_score": 1.0,
+      "expected_terms": [
+        "madeira",
+        "polpação",
+        "branqueamento",
+        "máquina de papel",
+        "recuperação química",
+        "energia"
+      ],
+      "required_concepts": [
+        "fluxo integrado",
+        "polpa marrom",
+        "licor preto",
+        "licor branco",
+        "papel",
+        "vapor"
+      ]
+    },
+    {
+      "item": 2,
+      "name": "Preparo da madeira",
+      "max_score": 1.0,
+      "expected_terms": [
+        "descascamento",
+        "cavacos",
+        "classificação",
+        "umidade",
+        "densidade",
+        "extrativos"
+      ],
+      "required_concepts": [
+        "tamanho dos cavacos",
+        "penetração do licor",
+        "cozimento homogêneo"
+      ]
+    },
+    {
+      "item": 3,
+      "name": "Polpação Kraft / cozimento",
+      "max_score": 1.5,
+      "expected_terms": [
+        "licor branco",
+        "NaOH",
+        "Na2S",
+        "digestor",
+        "lignina",
+        "número kappa",
+        "sulfidez",
+        "fator H"
+      ],
+      "required_concepts": [
+        "deslignificação",
+        "rendimento",
+        "viscosidade",
+        "carga alcalina"
+      ]
+    },
+    {
+      "item": 4,
+      "name": "Lavagem, depuração e purificação da polpa",
+      "max_score": 1.0,
+      "expected_terms": [
+        "lavagem",
+        "depuração",
+        "licor preto",
+        "carryover",
+        "rejeitos",
+        "cavacos mal cozidos"
+      ],
+      "required_concepts": [
+        "eficiência de lavagem",
+        "consumo no branqueamento"
+      ]
+    },
+    {
+      "item": 5,
+      "name": "Branqueamento",
+      "max_score": 1.0,
+      "expected_terms": [
+        "alvura",
+        "lignina residual",
+        "ClO2",
+        "O2",
+        "H2O2",
+        "pH",
+        "viscosidade"
+      ],
+      "required_concepts": [
+        "seletividade",
+        "dosagem química",
+        "reversão de alvura"
+      ]
+    },
+    {
+      "item": 6,
+      "name": "Preparo da massa e produção de papel",
+      "max_score": 1.5,
+      "expected_terms": [
+        "refino",
+        "aditivos",
+        "caixa de entrada",
+        "tela formadora",
+        "prensagem",
+        "secagem",
+        "gramatura",
+        "umidade"
+      ],
+      "required_concepts": [
+        "drenagem",
+        "calandragem",
+        "resistência mecânica"
+      ]
+    },
+    {
+      "item": 7,
+      "name": "Recuperação química e geração de energia",
+      "max_score": 1.5,
+      "expected_terms": [
+        "licor preto",
+        "evaporação",
+        "caldeira de recuperação",
+        "smelt",
+        "licor verde",
+        "caustificação",
+        "forno de cal",
+        "vapor"
+      ],
+      "required_concepts": [
+        "geração de energia",
+        "retorno do licor branco"
+      ]
+    },
+    {
+      "item": 8,
+      "name": "Interdependência entre etapas",
+      "max_score": 1.0,
+      "expected_terms": [
+        "cozimento heterogêneo",
+        "kappa",
+        "consumo químico",
+        "alvura",
+        "resistência",
+        "produtividade"
+      ],
+      "required_concepts": [
+        "cadeia causal",
+        "impacto no produto"
+      ]
+    },
+    {
+      "item": 9,
+      "name": "Organização, clareza e linguagem técnica",
+      "max_score": 0.5,
+      "expected_terms": [
+        "sequência",
+        "variáveis operacionais",
+        "pontos críticos",
+        "processo"
+      ],
+      "required_concepts": [
+        "clareza",
+        "precisão técnica"
+      ]
+    }
+  ],
+  "bonus": {
+    "max_score": 0.5,
+    "positive_only": true,
+    "examples": [
+      "tratamento de efluentes",
+      "segurança da caldeira",
+      "balanço de massa",
+      "balanço de energia",
+      "produtividade",
+      "consumo energético",
+      "fechamento de circuito"
+    ]
+  }
+}
